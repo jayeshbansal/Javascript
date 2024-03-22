@@ -1,2 +1,2 @@
 # Javascript
-javascript folder
+First Javascript Repo
