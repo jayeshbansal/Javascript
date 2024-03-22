@@ -1,2 +1,2 @@
 # Javascript
-First Javascript Repo
+First Javascript Repository.
